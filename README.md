@@ -65,7 +65,7 @@ Main features:
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliVillaDeLobos&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AliVillaDeLobos&show_icons=true&theme=radical)
 
 ---
 
