@@ -45,7 +45,7 @@ Currently developing a REST API for enterprise project management, focused on cl
 
 Backend-focused application designed to manage teams, projects, tasks, roles and permissions within a business environment.
 
-Main features:
+**Key Features:**
 - JWT Authentication
 - Role-based authorization
 - Project and task management
@@ -59,18 +59,18 @@ Main features:
 ## Featured Repositories
 
 - [Enterprise Project Management API](https://github.com/AliVillaDeLobos/PGestionOne)
-- [Calendar WebApp]()
+- [Calendar WebApp](https://github.com/AliVillaDeLobos/InitialCalendarProyect)
 
 ---
-
-
-## Languages
-
-- Spanish — Native
-- English — B2
 
 ## Currently Learning
 
 - Docker
 - OpenAPI / Swagger
 - PostgreSQL
+
+
+## Languages
+
+- Spanish — Native
+- English — B2
