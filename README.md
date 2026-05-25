@@ -1,6 +1,6 @@
-# Hi, I'm Angel Ali Villalobos 👋
+# Hi, I'm Angel Ali Villalobos 
 
-Java Backend Developer based in Mexico City 🇲🇽
+Java Backend Developer based in Mexico City
 
 Focused on building backend applications using Java and the Spring ecosystem, with strong interest in clean architecture, security and scalable systems.
 
